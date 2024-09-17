@@ -12,7 +12,7 @@ coverage/
 .yarn/
 .nx/
 addOns/yarn.lock
-
+yarn.lock
 # YALC (for Erik)
 .yalc
 yalc.lock
